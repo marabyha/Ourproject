@@ -2,3 +2,4 @@ print()
 sum = 0
 sum += 1
 print()
+print(sum)
